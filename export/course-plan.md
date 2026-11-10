@@ -4,7 +4,7 @@
 Curso de aproximadamente 60 minutos para estudiantes de secundaria (12 a 17 años) sin experiencia previa. No requiere instalaciones; se usa CodePen en el navegador.
 
 **Duración:** 60 minutos  
-**Repositorio:** [https://github.com/1ASI0730-2620-16712-grupo2-CodeBrokers/upc-pre-202620-1asi0730-16712-CodeBrokers-TRS-.git](https://github.com/)
+**Repositorio:** [webdev-course-codebrokers](https://github.com/1ASI0730-2620-16712-grupo2-CodeBrokers/webdev-course-codebrokers)
 **Link del video** [link](https://youtube.com)
 ## Secuencia de lecciones
 

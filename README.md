@@ -27,7 +27,7 @@ Curso introductorio para estudiantes de 12 a 17 años. Seis lecciones de aproxim
 - `starter-files/`: código de partida de cada lección.
 - `completed-examples/`: código terminado y archivos HTML de vista previa.
 - `scripts/`: guías de grabación de cada lección.
-- `docs/course-plan.md`: plantilla Markdown de la entrega.
+- `export/course-plan.md`: plantilla Markdown de la entrega.
 
 ## Responsabilidades del equipo
 
@@ -35,4 +35,4 @@ Cada integrante debe elaborar y grabar su lección, revisar el código, contribu
 
 ## Material de exposición
 
-En `presentaciones/` hay una presentación editable para cada integrante. En `scripts/` están los guiones detallados con tiempos, narración y acciones. La presentación conjunta se entrega por separado dentro del paquete integral.
+En `presentation/` hay una presentación editable para cada integrante. En `scripts/` están los guiones detallados con tiempos, narración y acciones. La presentación conjunta se entrega por separado dentro del paquete integral.
