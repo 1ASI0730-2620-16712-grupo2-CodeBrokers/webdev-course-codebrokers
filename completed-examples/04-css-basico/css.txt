@@ -1,0 +1,11 @@
+body {
+  background-color: #e8f4ff;
+  font-family: Arial, sans-serif;
+}
+h1 {
+  color: #2563eb;
+  font-size: 32px;
+}
+p {
+  color: #333333;
+}

@@ -22,3 +22,13 @@ Curso de aproximadamente 60 minutos para estudiantes de secundaria (12 a 17 año
 - **Actividad práctica:** Personaliza tres pasatiempos, modifica el texto de un enlace y revisa la descripción alternativa de la imagen.
 - **Código inicial:** `starter-files/03-elementos-html/`
 - **Código completado:** `completed-examples/03-elementos-html/`
+
+### Lección 04: Colores y tipografías (10 minutos)
+
+- **Descripción:** Introduce CSS como el lenguaje que define la apariencia de una página. Explica la estructura de una regla (selector, propiedad y valor) y aplica color de fondo, color de texto, tipo de letra y tamaño del título. La lección incluye una demostración en CodePen y un reto para personalizar la página.
+- **Video no listado:** [Ver la lección](https://youtu.be/eXcOFFXNIks)
+- **Práctica precargada:** [Abrir práctica en CodePen](https://codepen.io/iron1819/pen/myWvgxv)
+- **Consejos clave:** Toda regla CSS tiene selector, propiedad y valor, y cada declaración termina en punto y coma. Usa `background-color` para el fondo, `color` para el texto, `font-family` para el tipo de letra y `font-size` para el tamaño. Cuida el contraste entre el texto y el fondo.
+- **Actividad práctica:** Elige un color de fondo y de texto con buen contraste, prueba otra fuente sencilla y cambia el tamaño del título.
+- **Código inicial:** `starter-files/04-css-basico/`
+- **Código completado:** `completed-examples/04-css-basico/`
