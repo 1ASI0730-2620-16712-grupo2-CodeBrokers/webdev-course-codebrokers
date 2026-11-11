@@ -1,0 +1,7 @@
+<main class="tarjeta">
+<h1>Mi primera página web</h1>
+<h2>Sobre mí</h2>
+<p>Hola, soy Alex y me gusta la tecnología.</p>
+<p>Mi pasatiempo favorito es dibujar.</p>
+  <!-- Agrega aquí lista, imagen y enlace -->
+</main>
