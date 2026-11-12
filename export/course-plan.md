@@ -25,6 +25,8 @@ Curso de aproximadamente 60 minutos para estudiantes de secundaria (12 a 17 año
 - **Práctica precargada:** [Abrir práctica en CodePen](https://codepen.io/Harold-11/pen/pveGBGN)
 - **Consejos clave:** Cada etiqueta se abre con `<etiqueta>` y se cierra con `</etiqueta>`. Usa un solo `h1` para el título principal y `h2` para las secciones. Escribe cada párrafo dentro de su propio `p`.
 - **Actividad práctica:** Cambia el título, agrega una sección nueva con un `h2` y escribe dos párrafos sobre ti.
+- **Código inicial:** `starter-files/02-html-basico/`
+- **Código completado:** `completed-examples/02-html-basico/`
 
 ### Lección 03: Listas, imágenes y enlaces (10 minutos)
 
