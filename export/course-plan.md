@@ -46,6 +46,16 @@ Curso de aproximadamente 60 minutos para estudiantes de secundaria (12 a 17 año
 - **Código inicial:** `starter-files/04-css-basico/`
 - **Código completado:** `completed-examples/04-css-basico/`
 
+### Lección 05: Centrado, espacios y bordes (10 minutos)
+
+- **Descripción:** Presenta el modelo de caja de CSS: `padding` (espacio interior), `border` (contorno) y `margin` (espacio exterior). Agrupa el contenido en una tarjeta, limita su ancho con `max-width`, la centra con `margin: auto` y redondea sus esquinas con `border-radius`. La lección incluye una demostración en CodePen y un reto para personalizar la tarjeta.
+- **Video no listado:** [Ver la lección](https://youtu.be/Z188cCXJOPA)
+- **Práctica precargada:** [Abrir práctica en CodePen](https://codepen.io/Harold-11/pen/myWoEap)
+- **Consejos clave:** `padding` es el espacio dentro de la caja, `border` su contorno y `margin` el espacio fuera de ella. Con `max-width` y `margin: 30px auto` un bloque queda centrado. Si el estilo no se aplica, revisa que el nombre de la clase coincida entre HTML y CSS y que el selector empiece con punto (`.tarjeta`).
+- **Actividad práctica:** Cambia el color y grosor del borde, el redondeo de las esquinas y el espacio interno de la tarjeta.
+- **Código inicial:** `starter-files/05-diseno-css/`
+- **Código completado:** `completed-examples/05-diseno-css/`
+
 ### Lección 06: Proyecto final y errores comunes (13 minutos)
 
 - **Descripción:** Integra todo lo aprendido para completar una página de perfil: un saludo con una frase de presentación, subtítulos con color, un enlace convertido en botón y un pie de página. Luego muestra, provocándolos a propósito, los tres errores más comunes de principiantes y cómo corregirlos, y cierra con recomendaciones para seguir aprendiendo.
