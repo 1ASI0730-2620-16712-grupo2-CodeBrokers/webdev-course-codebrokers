@@ -1,6 +1,6 @@
 # Guion detallado — Lección 5: Centrado, espacios y bordes
 
-**Duración:** 10 minutos · **Público:** 12 a 17 años · **Editor:** CodePen (https://codepen.io/pen)
+**Duración:** 11 minutos · **Público:** 12 a 17 años · **Editor:** CodePen (https://codepen.io/pen)
 
 > **Nota de producción:** Las duraciones incluyen lectura pausada, navegación, escritura real del código y silencios de práctica. Ensayar con cronómetro; no acelerar la voz para completar el tiempo.
 

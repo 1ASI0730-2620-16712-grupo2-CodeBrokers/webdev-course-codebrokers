@@ -16,10 +16,10 @@ Curso introductorio para estudiantes de 12 a 17 años. Seis lecciones de aproxim
 | Lección | Tema | Carpeta |
 |---|---|---|
 | 01 | Introducción al desarrollo web | `01-introduccion` |
-| 02 | Etiquetas y estructura HTML | `02-html-basico` |
-| 03 | Listas, imágenes y enlaces | `03-elementos-html` |
-| 04 | Colores y tipografías | `04-css-basico` |
-| 05 | Centrado, bordes y espacios | `05-diseno-css` |
+| 02 | Introducción a HTML | `02-html-basico` |
+| 03 | Elementos HTML | `03-elementos-html` |
+| 04 | Introducción a CSS | `04-css-basico` |
+| 05 | Centrado, espacios y bordes | `05-diseno-css` |
 | 06 | Proyecto final y errores comunes | `06-proyecto-final` |
 
 ## Estructura

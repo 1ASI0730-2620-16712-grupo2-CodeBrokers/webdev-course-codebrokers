@@ -1,11 +1,15 @@
 # Fundamentos de Desarrollo Web
 
 ## Resumen del curso
-Curso de aproximadamente 60 minutos para estudiantes de secundaria (12 a 17 años) sin experiencia previa. No requiere instalaciones; se usa CodePen en el navegador.
+Curso de aproximadamente 64 minutos para estudiantes de secundaria (12 a 17 años) sin experiencia previa. No requiere instalaciones; se usa CodePen en el navegador.
 
-**Duración:** 60 minutos  
-**Repositorio:** [webdev-course-codebrokers](https://github.com/1ASI0730-2620-16712-grupo2-CodeBrokers/webdev-course-codebrokers)  
-**Lista de reproducción (todas las lecciones):** [Ver en YouTube](https://www.youtube.com/playlist?list=PLBOlMzt5HmbA)  
+**Duración total:** ~64 minutos (6 lecciones)  
+**Público objetivo:** Estudiantes de 12 a 17 años sin experiencia en programación  
+**Prerrequisitos:** Ninguno  
+**Herramientas necesarias:** Solo un navegador web (Chrome, Firefox, Safari o Edge) y [CodePen](https://codepen.io/pen/), gratuito y en línea  
+**Repositorio de código fuente:** [webdev-course-codebrokers](https://github.com/1ASI0730-2620-16712-grupo2-CodeBrokers/webdev-course-codebrokers)  
+**Lista de reproducción (todas las lecciones):** [Ver en YouTube](https://www.youtube.com/playlist?list=PLBOlMzt5HmbA)
+
 ## Secuencia de lecciones
 
 ### Lección 01: Introducción al desarrollo web (10 minutos)
@@ -28,7 +32,7 @@ Curso de aproximadamente 60 minutos para estudiantes de secundaria (12 a 17 año
 - **Código inicial:** `starter-files/02-html-basico/`
 - **Código completado:** `completed-examples/02-html-basico/`
 
-### Lección 03: Listas, imágenes y enlaces (10 minutos)
+### Lección 03: Elementos HTML (9 minutos)
 
 - **Descripción:** Aprende a organizar contenido mediante listas, insertar imágenes con descripciones alternativas y crear enlaces a otras páginas. La lección incluye una demostración en CodePen y un reto para personalizar una página de perfil.
 - **Video no listado:** [Ver la lección](https://youtu.be/J6KQvsXZelI)
@@ -38,7 +42,7 @@ Curso de aproximadamente 60 minutos para estudiantes de secundaria (12 a 17 año
 - **Código inicial:** `starter-files/03-elementos-html/`
 - **Código completado:** `completed-examples/03-elementos-html/`
 
-### Lección 04: Colores y tipografías (10 minutos)
+### Lección 04: Introducción a CSS (10 minutos)
 
 - **Descripción:** Introduce CSS como el lenguaje que define la apariencia de una página. Explica la estructura de una regla (selector, propiedad y valor) y aplica color de fondo, color de texto, tipo de letra y tamaño del título. La lección incluye una demostración en CodePen y un reto para personalizar la página.
 - **Video no listado:** [Ver la lección](https://youtu.be/gtJtEZPMuBE)
@@ -48,7 +52,7 @@ Curso de aproximadamente 60 minutos para estudiantes de secundaria (12 a 17 año
 - **Código inicial:** `starter-files/04-css-basico/`
 - **Código completado:** `completed-examples/04-css-basico/`
 
-### Lección 05: Centrado, espacios y bordes (10 minutos)
+### Lección 05: Centrado, espacios y bordes (11 minutos)
 
 - **Descripción:** Presenta el modelo de caja de CSS: `padding` (espacio interior), `border` (contorno) y `margin` (espacio exterior). Agrupa el contenido en una tarjeta, limita su ancho con `max-width`, la centra con `margin: auto` y redondea sus esquinas con `border-radius`. La lección incluye una demostración en CodePen y un reto para personalizar la tarjeta.
 - **Video no listado:** [Ver la lección](https://youtu.be/Z188cCXJOPA)
@@ -67,3 +71,46 @@ Curso de aproximadamente 60 minutos para estudiantes de secundaria (12 a 17 año
 - **Actividad práctica:** Crea un perfil sobre tu tema favorito (un personaje, un deporte, un videojuego o tu música) cambiando los textos, la imagen, los colores y el botón.
 - **Código inicial:** `starter-files/06-proyecto-final/`
 - **Código completado:** `completed-examples/06-proyecto-final/`
+
+## Recursos adicionales
+
+- **Código fuente completo:** [Repositorio de GitHub](https://github.com/1ASI0730-2620-16712-grupo2-CodeBrokers/webdev-course-codebrokers)
+- **Documentación recomendada:** [MDN Web Docs en español](https://developer.mozilla.org/es/docs/Web)
+- **Validador de HTML:** [W3C Markup Validation Service](https://validator.w3.org/)
+- **Todas las actividades prácticas:**
+
+| Lección | Actividad | Video | Práctica |
+|---|---|---|---|
+| 01 | Primera página con HTML y CSS | [YouTube](https://youtu.be/eXcOFFXNIks) | [CodePen](https://codepen.io/Harold-11/pen/QwpYPYN) |
+| 02 | Títulos, subtítulos y párrafos | [YouTube](https://youtu.be/_y3fC_iGIXs) | [CodePen](https://codepen.io/Harold-11/pen/pveGBGN) |
+| 03 | Listas, imágenes y enlaces | [YouTube](https://youtu.be/J6KQvsXZelI) | [CodePen](https://codepen.io/Harold-11/pen/ZYewZwy) |
+| 04 | Colores y fuentes | [YouTube](https://youtu.be/gtJtEZPMuBE) | [CodePen](https://codepen.io/Harold-11/pen/rayPbPG) |
+| 05 | Tarjeta con espacios y bordes | [YouTube](https://youtu.be/Z188cCXJOPA) | [CodePen](https://codepen.io/Harold-11/pen/myWoEap) |
+| 06 | Página de perfil completa | [YouTube](https://youtu.be/8U8XC7L6cr8) | [CodePen](https://codepen.io/Harold-11/pen/bNqzZQQ) |
+
+**¡Gracias por completar el curso!**
+
+---
+
+## Elaboración
+
+Universidad Peruana de Ciencias Aplicadas  
+Carrera de Ingeniería de Software  
+Período 202620  
+1ASI0730 Aplicaciones Web  
+NRC 16712  
+
+**Nombre del equipo:** CodeBrokers  
+**Líder del equipo:** Benigno Montero, Harold Fauskorp  
+**Integrantes del equipo y aportes:**
+
+| Lección | Integrante | Aporte |
+|---|---|---|
+| 01 | Said Conde, Yazid | Lección 1: guion, diapositivas, código, video y commits |
+| 02 | Salon Puerta, Merly | Lección 2: guion, diapositivas, código y video |
+| 03 | Tello Quispe, Luis German | Lección 3: guion, diapositivas, código, video y commits |
+| 04 | Osorio Ramírez, Eduardo Jesús | Lección 4: guion, diapositivas, código, video y commits |
+| 05 | Rodriguez Gonzales, Leonel German | Lección 5: guion, diapositivas, código y video |
+| 06 | Benigno Montero, Harold Fauskorp | Lección 6, coordinación, integración del repositorio y del plan de curso |
+
+**Fecha de entrega:** 12 de noviembre de 2026

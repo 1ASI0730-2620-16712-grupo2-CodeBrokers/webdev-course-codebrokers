@@ -1,4 +1,4 @@
-# Guion completo — Lección 4: Colores y fuentes con CSS
+# Guion completo — Lección 4: Introducción a CSS
 
 Duración total: unos 10 minutos. Público: estudiantes de 12 a 17 años.
 

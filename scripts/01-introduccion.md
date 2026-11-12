@@ -1,3 +1,6 @@
+# Guion detallado — Lección 1: Introducción al desarrollo web
+
+**Duración:** 10 minutos · **Público:** 12 a 17 años · **Editor:** CodePen (https://codepen.io/pen)
 
 
 ## Diapositiva 1 · 00:00–02:00 — Introducción

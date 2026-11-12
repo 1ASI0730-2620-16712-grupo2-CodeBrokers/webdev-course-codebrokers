@@ -1,6 +1,6 @@
-# Guion detallado — Integrante 3
+# Guion detallado — Lección 3: Elementos HTML
 
-**Lección 3: Listas, imágenes y enlaces** · Duración objetivo: 10 minutos · Público: 12 a 17 años
+**Duración:** 9 minutos · **Público:** 12 a 17 años · **Editor:** CodePen (https://codepen.io/pen)
 
 > **Nota de producción:** Los tiempos son orientativos e incluyen explicación pausada, escritura del código, comprobaciones y práctica. Las indicaciones de pantalla y acciones no se leen en voz alta. Usar las cuatro diapositivas correspondientes a la lección 3: listas, imágenes, enlaces y reto.
 
